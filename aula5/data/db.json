@@ -1,0 +1,19 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Fernando",
+            "email": "Fernando@gmail.com"
+        },
+        {
+            "id": 2,
+            "nome": "João Neto",
+            "email": "Jneto@gmail.com"
+        },
+        {
+            "id": 3,
+            "nome": "Maria",
+            "email": "Maria@gmail.com"
+        }
+    ]
+}
