@@ -1,0 +1,22 @@
+{
+    "noticias": [
+        {  
+"img": "https://images.unsplash.com/photo-1652974731232-efc86a9bd985",
+"titulo": "Tecnologia avança com IA Generativa 2",
+"texto": "Pesquisas em IA generativa impulsionam setores como saúde e entretenimento, trazendo novos desafios éticos e de regulamentação.",
+"id": "1"
+},
+{
+"id": "2",
+"img": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc",
+"titulo": "Mercado financeiro fecha em alta",
+"texto": "Bolsa de valores registra novo recorde de valorização com a recuperação econômica global."
+},
+{
+"id": "3",
+"img": "https://images.unsplash.com/photo-1556761175-4b46a572b786",
+"titulo": "Cientistas descobrem exoplaneta habitável",
+"texto": "Astrônomos identificam planeta fora do sistema solar com condições favoráveis para abrigar vida, reforçando buscas por sinais extraterrestres."
+}
+    ]
+}
